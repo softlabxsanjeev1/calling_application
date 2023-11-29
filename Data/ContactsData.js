@@ -1,4 +1,4 @@
-export const recetsData = [
+export const contactsData = [
     {
         id: 1,
         name: "Sanjeev Kumar",
@@ -80,7 +80,48 @@ export const recetsData = [
         telegram: "yes",
         duo: "yes"
     },
-
-
+    {
+        id: 11,
+        name: "Abhinav",
+        ph_no: "723280820",
+        whatsApp: "yes",
+        telegram: "yes",
+        duo: "yes"
+    },
+    {
+        id: 12,
+        name: "Abhinav",
+        ph_no: "723280820",
+        whatsApp: "yes",
+        telegram: "yes",
+        duo: "yes"
+    },
+    {
+        id: 13,
+        name: "Abhinav",
+        ph_no: "723280820",
+        whatsApp: "yes",
+        telegram: "yes",
+        duo: "yes"
+    },
+    {
+        id: 14,
+        name: "Abhinav",
+        ph_no: "723280820",
+        whatsApp: "yes",
+        telegram: "yes",
+        duo: "yes"
+    },
+    {
+        id: 15,
+        name: "Abhinav",
+        ph_no: "723280820",
+        whatsApp: "yes",
+        telegram: "yes",
+        duo: "yes"
+    },
 
 ]
+
+
+
